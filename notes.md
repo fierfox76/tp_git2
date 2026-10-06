@@ -1,5 +1,4 @@
-## Rappel
-Git est un système de versionnement distribué.
+Git est un outil très puissant.
 
 ### Avantages
 Git permet de travailler à plusieurs sans perdre ses modifications.
